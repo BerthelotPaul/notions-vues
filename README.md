@@ -93,13 +93,22 @@
 
 <br>
 
+## Framework
+### Bootstrap
+##### Synthaxes CSS
+##### Scripts
+### Symfony (prochainement)
+### Angular (prochainement)
+
+<br>
+
 ## Outils développements
 ### Git & GitHub
 ##### -Installation de git
 ##### -Les commandes basiques de git
 ##### -Créer le lien git & github
 ### Visual Studio Code
-##### Emmet
+##### -Emmet
 ### Dev Chrome Tools
 
 <br>
