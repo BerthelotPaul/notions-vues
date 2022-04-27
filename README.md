@@ -98,10 +98,22 @@
 ##### -Installation de git
 ##### -Les commandes basiques de git
 ##### -Créer le lien git & github
-### VSC
-### Emmet
+### Visual Studio Code
+##### Emmet
 ### Dev Chrome Tools
 
+<br>
+
+## Gestion de projet
+##### -Trello
+##### -Whimsical
+##### -Figma
+
+<br>
+
+## Hébergement web
+##### - PlanetHoster
+##### -AlwaysData
 
 <br>
 
