@@ -95,8 +95,8 @@
 
 ## Framework
 ### Bootstrap
-##### Synthaxes CSS
-##### Scripts
+##### -Synthaxes CSS
+##### -Scripts
 ### Symfony (prochainement)
 ### Angular (prochainement)
 
