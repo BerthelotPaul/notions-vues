@@ -38,12 +38,17 @@
 ##### -Programmation procédurale et fonctionnelle
 ##### -Architecture MVC
 ##### -Programmation Orientée Objet
-##### -PDO
+##### -PDO PHP Data Object
 ##### -Execution de requete SQL
 
 <br>
 
 ### SQL
+##### - Création de base de données
+##### - Création de table
+##### - Requetes CRUD (Create,Read,Update,Delete)
+##### - Jointures
+##### - Procédures Stockés
 
 <br>
 
@@ -53,7 +58,6 @@
 ##### -Theme et page Builder
 ##### -Les templates Wordpress
 ##### -Les plugins Wordpress
-
 
 
 <br>
@@ -66,6 +70,12 @@
 ##### -Les fonctions
 ##### -Programmation procédurale et fonctionnelle
 ##### -Programmation Orientée Objet
+##### -Héritage
+##### -Polymorphisme
+##### -Interfaces JFrame / Swing
+##### -Connection Bases de données
+##### -Utilisation de donnée en Java
+##### -Test unitaire
 
 ### Python
 ##### -Les variables
@@ -108,3 +118,4 @@
 ##### PGCD
 ##### Matrice
 ##### Algebre de Boole
+##### Les ensembles
